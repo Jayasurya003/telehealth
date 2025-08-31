@@ -44,6 +44,3 @@ This repository contains the full-stack telehealth application, including both b
 
 ## Deployment
 - See `docker-compose.yml` for multi-service deployment.
-
-## License
-Specify your license here.
